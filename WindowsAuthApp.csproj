@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net472</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyTitle>Windows Authentication App</AssemblyTitle>
+    <Company>Your Company</Company>
+    <Product>WindowsAuthApp</Product>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Reference Include="System.DirectoryServices.AccountManagement">
+      <HintPath>C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.DirectoryServices.AccountManagement.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
