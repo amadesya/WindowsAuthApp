@@ -38,7 +38,7 @@
 1. Клонируйте репозиторий:
    ```
    git clone https://github.com/amadesya/WindowsAuthApp
-  ```
+     ```
 2. Перейдите в каталог проекта:
 ```
 cd WindowsAuthApp
